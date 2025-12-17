@@ -1,4 +1,4 @@
-👋 Hi, I'm Fatema Tuz Zohura Mim
+*👋 Hi, I'm Fatema Tuz Zohura Mim
 
 I’m a Frontend Developer who loves building smooth, fast, and modern web interfaces.
 
